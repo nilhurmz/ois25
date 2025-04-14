@@ -28,7 +28,3 @@ ggplot(data, aes(x = Category, y = Value, fill = Group)) +
   ) +
   theme_minimal()
 
-
-
-
-
